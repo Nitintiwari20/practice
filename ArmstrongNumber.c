@@ -13,10 +13,11 @@ int rem,arm=0,t,n;
 }
 if(t==arm)
     {
-        printf("number is armstrong");
+        printf("yes number is armstrong");
     }
 else
     {
      printf("number not armstrong");
     }
+
 }

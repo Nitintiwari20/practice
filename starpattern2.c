@@ -10,5 +10,4 @@ void main()
         }
         printf("\n"); 
     }
-    
 }

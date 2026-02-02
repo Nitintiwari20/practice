@@ -20,10 +20,10 @@ void main()
             }
         }
     }
+    
     printf("Sorted Array is:\n");
     for(i=0;i<4;i++)
         {
             printf("%d ",a[i]);
         }
-    
-}
+    }

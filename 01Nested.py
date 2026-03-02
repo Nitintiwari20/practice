@@ -1,6 +1,7 @@
 num=int(input("enter a number:"))
 print("your value is:",num)
 if(0>num):
+    
     print("negative")
 elif(0<num):
     if(num<=10):
@@ -11,5 +12,6 @@ elif(0<num):
         print("number is grater them 20")
 else:
     print("number is zero")
+
 
 

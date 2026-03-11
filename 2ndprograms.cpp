@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+    
     char ch;
     cout << "enter ch:";
     cin >> ch;
@@ -14,3 +15,4 @@ int main()
 
     return 0;
 }
+
